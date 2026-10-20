@@ -1,5 +1,7 @@
 Google Cloud Storage and Database Selection — Decision Chart
 
+<img width="1790" height="987" alt="Screenshot 2026-10-20 113634" src="https://github.com/user-attachments/assets/d148c7a1-ddbd-4f0a-af9f-0394c944b9c9" />
+
 1. Start: Is your data structured?
 
 * NO → Do you need a shared file system?
